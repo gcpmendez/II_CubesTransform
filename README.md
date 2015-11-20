@@ -14,11 +14,14 @@ Se debe subir el proyecto comprimido, un enlace a la apk.
 
 
 ## Desarrollo
-![Pantalla inicial](https://github.com/gcpmendez/SpeechOfGoogle/blob/master/comparativa.png?raw=true)
+![Pantalla inicial](https://github.com/gcpmendez/II_CubesTransform/blob/master/cubosA2.JPG?raw=true)
+
+> **Nota:** para esta práctica hemos usado el ejemplo de las cardboard.
+
 
 #### Archivos pedidos: Comprimido y APK
-* [Comprimido](URL "https://en.wikipedia.org/wiki/List_of_speech_recognition_software")
-* [cubosAleatorios.apk](URL "https://wiki.archlinux.org/index.php/Speech_recognition#List_of_speech_recognition_applications")  
+* [Comprimido](URL "https://github.com/gcpmendez/II_CubesTransform/blob/master/src.rar")
+* [cubosAleatorios.apk](URL "https://github.com/gcpmendez/II_CubesTransform/blob/master/CubosAleatorios.apk")  
 
 
 ## Ayúdame a mejorar este tutorial
