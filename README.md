@@ -20,8 +20,8 @@ Se debe subir el proyecto comprimido, un enlace a la apk.
 
 
 #### Archivos pedidos: Comprimido y APK
-* [Comprimido](URL "https://github.com/gcpmendez/II_CubesTransform/blob/master/src.rar")
-* [cubosAleatorios.apk](URL "https://github.com/gcpmendez/II_CubesTransform/blob/master/CubosAleatorios.apk")  
+* [Comprimido](URL "https://github.com/gcpmendez/II_CubesTransform/blob/master/src.rar?raw=true")
+* [cubosAleatorios.apk](URL "https://github.com/gcpmendez/II_CubesTransform/blob/master/CubosAleatorios.apk?raw=true")  
 
 
 ## Ayúdame a mejorar este tutorial
