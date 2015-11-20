@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubosAleatorios.CSharp", "CubosAleatorios.CSharp.csproj", "{20F8D946-975F-5C7F-931B-DE9C0FB6BC01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CubosAleatorios.CSharp.Editor", "CubosAleatorios.CSharp.Editor.csproj", "{C6891D03-B257-9C84-6AB3-6F408192D42A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20F8D946-975F-5C7F-931B-DE9C0FB6BC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F8D946-975F-5C7F-931B-DE9C0FB6BC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F8D946-975F-5C7F-931B-DE9C0FB6BC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F8D946-975F-5C7F-931B-DE9C0FB6BC01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6891D03-B257-9C84-6AB3-6F408192D42A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6891D03-B257-9C84-6AB3-6F408192D42A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6891D03-B257-9C84-6AB3-6F408192D42A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6891D03-B257-9C84-6AB3-6F408192D42A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
